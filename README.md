@@ -21,5 +21,5 @@
 - Decision Trees - Random Forest
 
 ## Final Project
-- Image Classification (Face Mask Wearing - No Face Mask) -> CNN
-- Binding of chemical molecules to biological receptors (Binding - Not Binding) -> Random Forest - Gradient Boosting (XGBoost) - Adaptive Boosting (AdaBoost)
+### Image Classification (Face Mask Wearing - No Face Mask) -> CNN
+### Binding of chemical molecules to biological receptors (Binding - Not Binding) -> Random Forest - Gradient Boosting (XGBoost) - Adaptive Boosting (AdaBoost)
