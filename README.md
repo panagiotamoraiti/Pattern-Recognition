@@ -21,7 +21,7 @@
 - Decision Trees - Random Forest
 
 ## Final Project
-### Image Classification (Face Mask - No Face Mask) -> CNN
+### Image Classification (Face Mask - No Face Mask) -> CNN (PyTorch)
 ![mask](https://github.com/panagiotamoraiti/Pattern-Recognition/assets/72858165/6163db10-7df4-4e4d-8d8b-f1d57e000715)
 
 ### Binding of chemical molecules to biological receptors (Binding - Not Binding) -> Random Forest - Gradient Boosting (XGBoost) - Adaptive Boosting (AdaBoost)
