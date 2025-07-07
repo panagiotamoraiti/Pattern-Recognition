@@ -16,7 +16,7 @@
 - Dimensionality Reduction (PCA, LDA, MDS)
 
 ## Project 4
-- Neural Networks
+- Neural Networks (PyTorch)
 - Autoencoders
 - Decision Trees - Random Forest
 
